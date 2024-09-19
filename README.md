@@ -2,4 +2,12 @@
 
 Mini-apps store for [ArcaneChat](https://github.com/ArcaneChat/android)
 
-To publish your app in the store just create a pull request adding its metadata to the `xdcget.ini` file.
+## How to publish your app
+
+To publish your own mini app in the store just create an issue providing:
+
+* the URL to the app's repo
+* the app's short description (30 characters maximum)
+* the app's long description
+
+Your repo must provide the `*.xdc` file asset in the releases page.
